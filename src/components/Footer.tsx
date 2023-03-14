@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Footer = () => {
+export const Footer = (): JSX.Element => {
   return (
     <footer>
       AFD
